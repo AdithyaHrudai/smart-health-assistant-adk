@@ -190,7 +190,7 @@ MIT License - See LICENSE file for details
 
 ---
 
-## 🙏 Acknowledgments
+## Acknowledgments
 
 - Google ADK Team for agent development framework
 - Kaggle for hosting the Agents Intensive competition
