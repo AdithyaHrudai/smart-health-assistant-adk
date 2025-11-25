@@ -227,4 +227,4 @@ MIT License - See LICENSE file for details
 
 ---
 
-**Built with ❤️ for Kaggle Agents Intensive Capstone 2024**
+**Built with ❤️ for Kaggle Agents Intensive Capstone 2025**
